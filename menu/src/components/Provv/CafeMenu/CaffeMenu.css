@@ -1,0 +1,59 @@
+h1, h2, p {
+    text-align: center;
+    font-family: Impact,Serif;
+}
+.established {
+    font-style: italic;
+}
+.bottom-line {
+    margin-top: 25px;
+}
+img {
+    /*display: block;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr{
+    height: 3px;
+    width: 50%;
+    background-color: brown;
+    border-color: brown;
+}
+
+.body {
+    background-color: #4f2e04;
+    font-family: sans-serif;
+
+}
+
+#menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding: 2%;
+    max-width: 500px;
+}
+
+
+.flavor, .dessert {
+    width: 50%;
+    text-align: left;
+    background-color: #ffffff;
+}
+
+.price {
+    width: 50%;
+    text-align: right;
+    background-color: #ffffff;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+
